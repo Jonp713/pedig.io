@@ -1,8 +1,8 @@
 {
-  "name": "socket.io",
+  "name": "pedig.io",
   "version": "0.9.17",
   "description": "Real-time apps made cross-browser & easy with a WebSocket-like API",
-  "homepage": "http://socket.io",
+  "homepage": "http://pedig.io",
   "keywords": [
     "websocket",
     "socket",
@@ -10,7 +10,7 @@
     "socket.io",
     "comet",
     "ajax",
-    "function",
+    "function"
   ],
   "author": {
     "name": "Jonathan Pedigo",
@@ -32,7 +32,7 @@
     {
       "name": "Einar Otto Stangvik",
       "email": "einaros@gmail.com"
-    }
+    },
     {
       "name": "Jonathan Pedigo",
       "email": "pedigojon@gmail.com"
@@ -67,7 +67,7 @@
   },
   "_id": "pedig.io@0.9.17",
   "_shasum": "ca389268fb2cd5df4b59218490a08c907581c9ec",
-  "_from": "socket.io@>=0.9.17 <0.10.0",
+  "_from": "pedig.io@>=0.9.17 <0.10.0",
   "_npmVersion": "1.4.7",
   "_npmUser": {
     "name": "rauchg",
